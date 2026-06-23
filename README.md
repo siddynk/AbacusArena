@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29233933/README.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1c1c42,100:281c00&height=200&section=header&text=🧮%20Abacus%20Arena&fontSize=48&fontColor=fbbf24&animation=twinkling&fontAlignY=38&desc=Real-Time%20Mental%20Math%20Quiz%20Platform&descAlignY=58&descSize=18&descColor=c9a227" width="100%"/>
